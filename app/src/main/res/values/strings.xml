@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JsonParsingEx</string>
+    <string name="text_title_id">Id</string>
+    <string name="text_title_name">Name</string>
+    <string name="text_title_email">Email</string>
+
+</resources>
