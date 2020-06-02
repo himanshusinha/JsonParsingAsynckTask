@@ -27,7 +27,6 @@
             android:layout_marginTop="30dp"
             android:textColor="@android:color/holo_orange_dark"
             android:text="@string/text_title_name"
-
             android:textAppearance="?android:attr/textAppearanceMedium"
              />
 
